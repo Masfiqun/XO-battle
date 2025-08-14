@@ -1,17 +1,16 @@
-# tic_tac_toe
+# 🎮 XO Battle – Tic-Tac-Toe Game (Flutter)
 
-A new Flutter project.
+A fun and colorful **two-player Tic-Tac-Toe game** built with Flutter.  
+Play on the same device, enjoy win/draw detection, animations, and a stylish UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- 👫 **Two-Player Mode** (local on the same device)  
+- 🎯 **3×3 Grid** with smooth tap animations  
+- 🏆 **Win & Draw Detection** with highlights  
+- 🔄 **Restart Button** to reset the game instantly  
+- 🌈 **Gradient & Neon-Themed UI**  
+- 💡 **Animated Win Highlights** for the winning row/column/diagonal
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# XO-battle" 
+  ---
